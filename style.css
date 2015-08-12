@@ -1,0 +1,34 @@
+/*
+Theme Name: BS3 Theme
+Theme URI: http://somber-stefany.pagodabox.com
+Description: My Bootstrap 3 responsive theme
+Version: 1
+Author: Nathan Ryan
+Author URI: http://somber-stefany.pagodabox.com 
+*/
+
+@import url('css/bootstrap.min.css');
+
+body{
+    background-image: url("img/eight_horns.png");
+}
+
+.panel h3 {
+	margin-top: 5px;
+}
+
+#contact {
+	margin-bottom: 15px;
+}
+
+
+.jumbotron{
+	margin-top: 60px;
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+	background: #000 url("img/carousel/sunset1.jpg") center center;
+}
+
+
