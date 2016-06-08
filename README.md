@@ -1,5 +1,5 @@
 # photoblog
-simple bootstrap wordpress blog
+simple bootstrap photo wordpress blog
 
 [![photoblog home](https://raw.githubusercontent.com/nathanryan/photoblog/master/screenshots/home.PNG)]
 
